@@ -2012,4 +2012,5 @@ function Aurora:AddTab(text, icon)
 
     return tabObj
 end
+
 return Aurora
